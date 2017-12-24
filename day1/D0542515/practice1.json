@@ -1,0 +1,17 @@
+{
+  "name": "d0542515",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "scripts": {
+    "homework": "echo helloworld"
+  },
+  "author": "Wayne <win860927@gmail.com>",
+  "license": "ISC"
+}
